@@ -1,5 +1,6 @@
 # database-book
-The guide for understanding databases from scracth, it helps learners to start with simple key value store, and takes all the way to epaxos kind of databases. 
+The guide for understanding databases from scracth, it helps learners to start with simple key value store, and takes all the way to epaxos kind of databases. It's 170+ slides pdf, so wait for complete loading.
+
 ### The jounery
 Takes how can we build a system that supports SELECT, INSERT, UPDATE, DELETE statements from scratch. We start with simple key value store, and take step by step approach by adding more real world use cases/challenges.
 
